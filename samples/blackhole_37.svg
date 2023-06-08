@@ -1,0 +1,1791 @@
+
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'>
+    <rect width='400' height='400' fill='black' />
+    <circle cx='200' cy='200' r='101' stroke-width='1px' stroke='white' fill='transparent' />
+    
+    <circle 
+    cx='200' cy='200' r='102' 
+    stroke-dasharray='86.0 1' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1 200 200"
+            to="361 200 200"
+            dur="1000.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="1s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='103' 
+    stroke-dasharray='43.0 4' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="364 200 200"
+            to="4 200 200"
+            dur="500.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="2s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='104' 
+    stroke-dasharray='28.666666666666668 9' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="9 200 200"
+            to="369 200 200"
+            dur="333.3333333333333s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="3s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='105' 
+    stroke-dasharray='21.5 16' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="376 200 200"
+            to="16 200 200"
+            dur="250.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="4s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='106' 
+    stroke-dasharray='17.2 25' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="25 200 200"
+            to="385 200 200"
+            dur="200.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="5s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='107' 
+    stroke-dasharray='14.333333333333334 36' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="396 200 200"
+            to="36 200 200"
+            dur="166.66666666666666s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="6s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='108' 
+    stroke-dasharray='12.285714285714286 49' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="49 200 200"
+            to="409 200 200"
+            dur="142.85714285714286s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="7s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='109' 
+    stroke-dasharray='10.75 64' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="424 200 200"
+            to="64 200 200"
+            dur="125.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="8s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='110' 
+    stroke-dasharray='9.555555555555555 81' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="81 200 200"
+            to="441 200 200"
+            dur="111.11111111111111s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="9s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='111' 
+    stroke-dasharray='8.6 100' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="460 200 200"
+            to="100 200 200"
+            dur="100.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="10s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='112' 
+    stroke-dasharray='7.818181818181818 121' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="121 200 200"
+            to="481 200 200"
+            dur="90.9090909090909s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="11s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='113' 
+    stroke-dasharray='7.166666666666667 144' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="504 200 200"
+            to="144 200 200"
+            dur="83.33333333333333s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="12s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='114' 
+    stroke-dasharray='6.615384615384615 169' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="169 200 200"
+            to="529 200 200"
+            dur="76.92307692307692s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="13s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='115' 
+    stroke-dasharray='6.142857142857143 196' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="556 200 200"
+            to="196 200 200"
+            dur="71.42857142857143s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="14s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='116' 
+    stroke-dasharray='5.733333333333333 225' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="225 200 200"
+            to="585 200 200"
+            dur="66.66666666666667s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="15s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='117' 
+    stroke-dasharray='5.375 256' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="616 200 200"
+            to="256 200 200"
+            dur="62.5s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="16s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='118' 
+    stroke-dasharray='5.0588235294117645 289' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="289 200 200"
+            to="649 200 200"
+            dur="58.8235294117647s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="17s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='119' 
+    stroke-dasharray='4.777777777777778 324' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="684 200 200"
+            to="324 200 200"
+            dur="55.55555555555556s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="18s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='120' 
+    stroke-dasharray='4.526315789473684 361' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="361 200 200"
+            to="721 200 200"
+            dur="52.63157894736842s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="19s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='121' 
+    stroke-dasharray='4.3 400' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="760 200 200"
+            to="400 200 200"
+            dur="50.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="20s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='122' 
+    stroke-dasharray='4.095238095238095 441' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="441 200 200"
+            to="801 200 200"
+            dur="47.61904761904762s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="21s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='123' 
+    stroke-dasharray='3.909090909090909 484' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="844 200 200"
+            to="484 200 200"
+            dur="45.45454545454545s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="22s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='124' 
+    stroke-dasharray='3.739130434782609 529' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="529 200 200"
+            to="889 200 200"
+            dur="43.47826086956522s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="23s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='125' 
+    stroke-dasharray='3.5833333333333335 576' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="936 200 200"
+            to="576 200 200"
+            dur="41.666666666666664s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="24s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='126' 
+    stroke-dasharray='3.44 625' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="625 200 200"
+            to="985 200 200"
+            dur="40.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="25s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='127' 
+    stroke-dasharray='3.3076923076923075 676' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1036 200 200"
+            to="676 200 200"
+            dur="38.46153846153846s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="26s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='128' 
+    stroke-dasharray='3.185185185185185 729' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="729 200 200"
+            to="1089 200 200"
+            dur="37.03703703703704s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="27s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='129' 
+    stroke-dasharray='3.0714285714285716 784' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1144 200 200"
+            to="784 200 200"
+            dur="35.714285714285715s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="28s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='130' 
+    stroke-dasharray='2.9655172413793105 841' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="841 200 200"
+            to="1201 200 200"
+            dur="34.48275862068966s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="29s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='131' 
+    stroke-dasharray='2.8666666666666667 900' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1260 200 200"
+            to="900 200 200"
+            dur="33.333333333333336s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="30s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='132' 
+    stroke-dasharray='2.774193548387097 961' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="961 200 200"
+            to="1321 200 200"
+            dur="32.25806451612903s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="31s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='133' 
+    stroke-dasharray='2.6875 1024' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1384 200 200"
+            to="1024 200 200"
+            dur="31.25s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="32s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='134' 
+    stroke-dasharray='2.606060606060606 1089' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1089 200 200"
+            to="1449 200 200"
+            dur="30.303030303030305s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="33s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='135' 
+    stroke-dasharray='2.5294117647058822 1156' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1516 200 200"
+            to="1156 200 200"
+            dur="29.41176470588235s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="34s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='136' 
+    stroke-dasharray='2.4571428571428573 1225' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1225 200 200"
+            to="1585 200 200"
+            dur="28.571428571428573s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="35s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='137' 
+    stroke-dasharray='2.388888888888889 1296' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1656 200 200"
+            to="1296 200 200"
+            dur="27.77777777777778s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="36s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='138' 
+    stroke-dasharray='2.324324324324324 1369' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1369 200 200"
+            to="1729 200 200"
+            dur="27.027027027027028s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="37s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='139' 
+    stroke-dasharray='2.263157894736842 1444' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1804 200 200"
+            to="1444 200 200"
+            dur="26.31578947368421s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="38s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='140' 
+    stroke-dasharray='2.2051282051282053 1521' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1521 200 200"
+            to="1881 200 200"
+            dur="25.641025641025642s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="39s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='141' 
+    stroke-dasharray='2.15 1600' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1960 200 200"
+            to="1600 200 200"
+            dur="25.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="40s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='142' 
+    stroke-dasharray='2.097560975609756 1681' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1681 200 200"
+            to="2041 200 200"
+            dur="24.390243902439025s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="41s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='143' 
+    stroke-dasharray='2.0476190476190474 1764' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2124 200 200"
+            to="1764 200 200"
+            dur="23.80952380952381s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="42s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='144' 
+    stroke-dasharray='2.0 1849' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="1849 200 200"
+            to="2209 200 200"
+            dur="23.25581395348837s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="43s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='145' 
+    stroke-dasharray='1.9545454545454546 1936' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2296 200 200"
+            to="1936 200 200"
+            dur="22.727272727272727s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="44s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='146' 
+    stroke-dasharray='1.9111111111111112 2025' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2025 200 200"
+            to="2385 200 200"
+            dur="22.22222222222222s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="45s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='147' 
+    stroke-dasharray='1.8695652173913044 2116' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2476 200 200"
+            to="2116 200 200"
+            dur="21.73913043478261s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="46s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='148' 
+    stroke-dasharray='1.8297872340425532 2209' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2209 200 200"
+            to="2569 200 200"
+            dur="21.27659574468085s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="47s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='149' 
+    stroke-dasharray='1.7916666666666667 2304' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2664 200 200"
+            to="2304 200 200"
+            dur="20.833333333333332s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="48s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='150' 
+    stroke-dasharray='1.7551020408163265 2401' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2401 200 200"
+            to="2761 200 200"
+            dur="20.408163265306122s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="49s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='151' 
+    stroke-dasharray='1.72 2500' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2860 200 200"
+            to="2500 200 200"
+            dur="20.0s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="50s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='152' 
+    stroke-dasharray='1.6862745098039216 2601' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2601 200 200"
+            to="2961 200 200"
+            dur="19.607843137254903s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="51s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='153' 
+    stroke-dasharray='1.6538461538461537 2704' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3064 200 200"
+            to="2704 200 200"
+            dur="19.23076923076923s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="52s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='154' 
+    stroke-dasharray='1.6226415094339623 2809' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="2809 200 200"
+            to="3169 200 200"
+            dur="18.867924528301888s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="53s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='155' 
+    stroke-dasharray='1.5925925925925926 2916' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3276 200 200"
+            to="2916 200 200"
+            dur="18.51851851851852s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="54s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='156' 
+    stroke-dasharray='1.5636363636363637 3025' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3025 200 200"
+            to="3385 200 200"
+            dur="18.181818181818183s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="55s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='157' 
+    stroke-dasharray='1.5357142857142858 3136' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3496 200 200"
+            to="3136 200 200"
+            dur="17.857142857142858s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="56s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='158' 
+    stroke-dasharray='1.5087719298245614 3249' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3249 200 200"
+            to="3609 200 200"
+            dur="17.54385964912281s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="57s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='159' 
+    stroke-dasharray='1.4827586206896552 3364' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3724 200 200"
+            to="3364 200 200"
+            dur="17.24137931034483s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="58s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='160' 
+    stroke-dasharray='1.4576271186440677 3481' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3481 200 200"
+            to="3841 200 200"
+            dur="16.949152542372882s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="59s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='161' 
+    stroke-dasharray='1.4333333333333333 3600' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3960 200 200"
+            to="3600 200 200"
+            dur="16.666666666666668s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="60s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='162' 
+    stroke-dasharray='1.4098360655737705 3721' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3721 200 200"
+            to="4081 200 200"
+            dur="16.39344262295082s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="61s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='163' 
+    stroke-dasharray='1.3870967741935485 3844' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="4204 200 200"
+            to="3844 200 200"
+            dur="16.129032258064516s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="62s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='164' 
+    stroke-dasharray='1.3650793650793651 3969' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="3969 200 200"
+            to="4329 200 200"
+            dur="15.873015873015873s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="63s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='165' 
+    stroke-dasharray='1.34375 4096' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="4456 200 200"
+            to="4096 200 200"
+            dur="15.625s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="64s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='166' 
+    stroke-dasharray='1.323076923076923 4225' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="4225 200 200"
+            to="4585 200 200"
+            dur="15.384615384615385s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="65s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='167' 
+    stroke-dasharray='1.303030303030303 4356' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="4716 200 200"
+            to="4356 200 200"
+            dur="15.151515151515152s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="66s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='168' 
+    stroke-dasharray='1.2835820895522387 4489' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="4489 200 200"
+            to="4849 200 200"
+            dur="14.925373134328359s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="67s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='169' 
+    stroke-dasharray='1.2647058823529411 4624' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="4984 200 200"
+            to="4624 200 200"
+            dur="14.705882352941176s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="68s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='170' 
+    stroke-dasharray='1.2463768115942029 4761' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="4761 200 200"
+            to="5121 200 200"
+            dur="14.492753623188406s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="69s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='171' 
+    stroke-dasharray='1.2285714285714286 4900' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="5260 200 200"
+            to="4900 200 200"
+            dur="14.285714285714286s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="70s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='172' 
+    stroke-dasharray='1.2112676056338028 5041' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="5041 200 200"
+            to="5401 200 200"
+            dur="14.084507042253522s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="71s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='173' 
+    stroke-dasharray='1.1944444444444444 5184' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="5544 200 200"
+            to="5184 200 200"
+            dur="13.88888888888889s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="72s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='174' 
+    stroke-dasharray='1.178082191780822 5329' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="5329 200 200"
+            to="5689 200 200"
+            dur="13.698630136986301s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="73s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='175' 
+    stroke-dasharray='1.162162162162162 5476' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="5836 200 200"
+            to="5476 200 200"
+            dur="13.513513513513514s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="74s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='176' 
+    stroke-dasharray='1.1466666666666667 5625' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="5625 200 200"
+            to="5985 200 200"
+            dur="13.333333333333334s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="75s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='177' 
+    stroke-dasharray='1.131578947368421 5776' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="6136 200 200"
+            to="5776 200 200"
+            dur="13.157894736842104s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="76s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='178' 
+    stroke-dasharray='1.1168831168831168 5929' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="5929 200 200"
+            to="6289 200 200"
+            dur="12.987012987012987s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="77s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='179' 
+    stroke-dasharray='1.1025641025641026 6084' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="6444 200 200"
+            to="6084 200 200"
+            dur="12.820512820512821s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="78s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='180' 
+    stroke-dasharray='1.0886075949367089 6241' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="6241 200 200"
+            to="6601 200 200"
+            dur="12.658227848101266s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="79s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='181' 
+    stroke-dasharray='1.075 6400' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="6760 200 200"
+            to="6400 200 200"
+            dur="12.5s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="80s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='182' 
+    stroke-dasharray='1.0617283950617284 6561' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="6561 200 200"
+            to="6921 200 200"
+            dur="12.345679012345679s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="81s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='183' 
+    stroke-dasharray='1.048780487804878 6724' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="7084 200 200"
+            to="6724 200 200"
+            dur="12.195121951219512s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="82s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='184' 
+    stroke-dasharray='1.036144578313253 6889' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="6889 200 200"
+            to="7249 200 200"
+            dur="12.048192771084338s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="83s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='185' 
+    stroke-dasharray='1.0238095238095237 7056' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="7416 200 200"
+            to="7056 200 200"
+            dur="11.904761904761905s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="1;0;1"
+            dur="84s"
+            repeatCount="indefinite" />
+      </circle>
+    <circle 
+    cx='200' cy='200' r='186' 
+    stroke-dasharray='1.011764705882353 7225' 
+    stroke-width='1px' 
+    stroke='white' 
+    fill='transparent' 
+    >
+         <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="7225 200 200"
+            to="7585 200 200"
+            dur="11.764705882352942s"
+            repeatCount="indefinite" />
+        <animate
+            attributeName="stroke-opacity"
+            values="0;1;0"
+            dur="85s"
+            repeatCount="indefinite" />
+      </circle>
+</svg>
