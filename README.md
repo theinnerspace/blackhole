@@ -1,2 +1,0 @@
-# blackhole
-The Blackhole
