@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.db327770.css",
-    "main.js": "/static/js/main.59ddaf75.js",
+    "main.css": "/static/css/main.d42771eb.css",
+    "main.js": "/static/js/main.7c5e551f.js",
     "static/js/334.3ae84b9a.chunk.js": "/static/js/334.3ae84b9a.chunk.js",
     "static/js/538.d8c2b9c5.chunk.js": "/static/js/538.d8c2b9c5.chunk.js",
     "static/js/985.6abab370.chunk.js": "/static/js/985.6abab370.chunk.js",
     "static/js/989.7062e455.chunk.js": "/static/js/989.7062e455.chunk.js",
     "static/js/351.b1672930.chunk.js": "/static/js/351.b1672930.chunk.js",
     "static/js/164.3366fdae.chunk.js": "/static/js/164.3366fdae.chunk.js",
-    "static/js/379.eb787f3c.chunk.js": "/static/js/379.eb787f3c.chunk.js",
+    "static/js/379.ab610b2c.chunk.js": "/static/js/379.ab610b2c.chunk.js",
     "static/media/Jura-Regular.ttf": "/static/media/Jura-Regular.0a4ac78909358bf67d67.ttf",
     "static/media/Jura-Bold.ttf": "/static/media/Jura-Bold.ebc36b579e40c6b39a15.ttf",
     "index.html": "/index.html",
-    "main.db327770.css.map": "/static/css/main.db327770.css.map",
-    "main.59ddaf75.js.map": "/static/js/main.59ddaf75.js.map",
+    "main.d42771eb.css.map": "/static/css/main.d42771eb.css.map",
+    "main.7c5e551f.js.map": "/static/js/main.7c5e551f.js.map",
     "334.3ae84b9a.chunk.js.map": "/static/js/334.3ae84b9a.chunk.js.map",
     "538.d8c2b9c5.chunk.js.map": "/static/js/538.d8c2b9c5.chunk.js.map",
     "989.7062e455.chunk.js.map": "/static/js/989.7062e455.chunk.js.map",
     "351.b1672930.chunk.js.map": "/static/js/351.b1672930.chunk.js.map",
     "164.3366fdae.chunk.js.map": "/static/js/164.3366fdae.chunk.js.map",
-    "379.eb787f3c.chunk.js.map": "/static/js/379.eb787f3c.chunk.js.map"
+    "379.ab610b2c.chunk.js.map": "/static/js/379.ab610b2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db327770.css",
-    "static/js/main.59ddaf75.js"
+    "static/css/main.d42771eb.css",
+    "static/js/main.7c5e551f.js"
   ]
 }
